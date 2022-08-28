@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammed-Farhad-Uddin
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Programming Hero 
+- 💞️ I’m looking to collaborate with creating and innovative company 
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100004190257300
  
 
